@@ -1,0 +1,125 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.bs-docs-footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 100px;
+  color: #99979c;
+  text-align: center;
+  background-color: #2a2730;
+}
+.bs-docs-footer a {
+  color: #fff;
+}
+.bs-docs-footer-links {
+  padding-left: 0;
+  margin-bottom: 20px;
+}
+.bs-docs-footer-links li {
+  display: inline-block;
+}
+.bs-docs-footer-links li + li {
+  margin-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .bs-docs-footer {
+    text-align: left;
+  }
+  .bs-docs-footer p {
+    margin-bottom: 0;
+  }
+}
+
+.bs-docs-footer {
+  margin-top: 0;
+  border-top: 0;
+}
+
+.page-headerteste{ 
+  color: #99979c;
+  text-align: center;
+    
+}
+
+.footer-top-area .zigzag-bottom{background: #f4f4f4}
+.footer-top-area {background: none repeat scroll 0 0 #333;
+color: #999;
+padding: 35px 0 180px;}
+
+
+.footer-bottom-area {background: #000;color: #fff}
+.footer-about-us span {
+  color: #e67e22;
+}
+.footer-wid-title {
+  font-family: raleway;
+  font-size: 30px;
+  font-weight: 100;color: #fff
+}
+
+.footer-about-us h2 {
+  font-weight: 200;
+}
+.footer-menu ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.footer-menu ul li {
+    border-bottom: 1px dashed #555;
+    padding: 5px 0;
+}
+.footer-menu a {
+    display: block;
+    padding: 5px 0;color: #999
+}
+
+
+.footer-social a {
+  background: none repeat scroll 0 0 #e67e22;
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  height: 40px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding-top: 5px;
+  text-align: center;
+  width: 40px;border: 1px solid #e67e22;
+}
+
+.footer-social a:hover {background-color: #222;border-color: #666}
+
+.footer-social {margin-top: 20px}
+
+footer-bottom-area {
+  background: none repeat scroll 0 0 #000;
+  color: #fff;
+  padding-bottom: 40px;
+}
+
+.footer-card-icon {
+  font-size: 30px;
+  text-align: right;
+}
+
+
+

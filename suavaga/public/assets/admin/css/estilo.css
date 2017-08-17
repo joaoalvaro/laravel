@@ -1,0 +1,38 @@
+
+/* 
+    Created on : 04/07/2017, 22:03:55
+    Author     : Trabalho
+*/
+
+.titulo-pag{
+    font-size: 2em;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;  
+}
+
+.editar{
+    background: #59a7ea;
+}
+
+.excluir{
+    background: #de4553;
+}
+
+.actions{
+    padding: 6px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1em;
+    margin: 0px 2px;
+}
+
+.actions:hover{
+    text-decoration: none;
+    color:#fff;
+}
+
+.btn-primary{
+    margin: 4px 10px;
+    background: #59a7ea;
+}
